@@ -115,13 +115,13 @@ const Product = () => {
  
   const [ product, setProduct ] = useState({});
   
-  useEffect(() => {
-    const getProduct = async ()=> {
-        try{
-            const res = axios.
-        } catch{}
-    }
-  },[id])
+//   useEffect(() => {
+//     const getProduct = async ()=> {
+//         try{
+//             const res = axios.
+//         } catch{}
+//     }
+//   },[id])
 
   return (
   <Container>
